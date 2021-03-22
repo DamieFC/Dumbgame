@@ -12,3 +12,15 @@ I don't know how to run from there. Another idea:
 $ git clone https://github.com/DamieFC/game.git
 $ cd game
 $ gcc game.c -o game
+```
+I think that one's the best. Ok then:
+## Recommended Installation
+### What you will need:
+1. `GCC`
+2. `git`
+### What to do:
+```shell
+$ git clone https://github.com/DamieFC/game.git
+$ cd game
+$ gcc game.c -o game
+```
